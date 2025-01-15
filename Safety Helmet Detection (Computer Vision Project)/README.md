@@ -7,6 +7,9 @@ capable to recognize if workers in construction areas are using their safety hel
 Safety Helmet will be an integrated part of a dedicated ecosystem for secure safety habits on working dangerous areas, 
 focusing on the scalability of the detection system trying to make it capable of covering the most scenarios posibles.
 
+## Output
+![Output](output/helmet.jpg)
+
 ## Features
 - Uses YOLO to train Model.
 - Trains on  dataset to detect safety helmet.
